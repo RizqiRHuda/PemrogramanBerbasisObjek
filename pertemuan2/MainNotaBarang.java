@@ -50,5 +50,6 @@ public class MainNotaBarang {
 
         System.out.println();
         System.out.println("====================== **** ====================== ");
+        sc.close();
     }
 }
