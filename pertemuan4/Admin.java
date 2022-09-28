@@ -36,7 +36,7 @@ public class Admin {
 
     public void setContact(String contact) {
         this.contact = contact;
-    }
+    }//
 
     public String getAlamat() {
         return this.alamat;
