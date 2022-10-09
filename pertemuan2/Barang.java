@@ -18,4 +18,3 @@ public class Barang {
         System.out.println("Harga Bersih\t: " + getHargaBersih());
     }
 }
-//
